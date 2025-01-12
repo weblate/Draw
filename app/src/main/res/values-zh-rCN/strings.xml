@@ -2,7 +2,7 @@
 <resources>
     <string name="open_file">打开文件</string>
     <string name="eraser">橡皮擦</string>
-    <string name="eyedropper">拾色器</string>
+    <string name="eyedropper">取色器</string>
     <string name="bucket_fill">填充</string>
     <string name="failed_to_load_image">无法加载图像 %s</string>
     <string name="show_brush_size">显示笔刷大小工具</string>
