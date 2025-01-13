@@ -9,4 +9,5 @@
     <string name="eyedropper">取色工具</string>
     <string name="bucket_fill">填滿顏色</string>
     <string name="allow_zooming_moving_canvas">允許使用手勢縮放或移動畫布</string>
+    <string name="app_launcher_name">繪畫</string>
 </resources>
